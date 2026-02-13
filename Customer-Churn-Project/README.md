@@ -1,6 +1,6 @@
 **Customer Churn Analysis**
  
-This repository contains Python notebooks analyzing a **Customer Churn** dataset to understand customer behavior, spending patterns, and retention trends.
+This folder contains Python notebooks analyzing a **Customer Churn** dataset to understand customer behavior, spending patterns, and retention trends.
  
 ---
  
